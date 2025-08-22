@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Junior Software Engineer focused on backend / full stack development.<br><br>I am experienced in development of apps using Java with Spring Boot and JS with React backed by AWS for deployment.</p>
+<p align="left">Junior Software Engineer focused on backend / full stack development.<br><br>I am experienced in development of apps using Java with Spring Boot and JavaScript with React backed by AWS for deployment.</p>
 
 ###
 
